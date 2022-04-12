@@ -1,0 +1,28 @@
+* {
+    background-color: bisque;
+}
+
+h1 {
+    font-family: 'Gayathri', 'Times New Roman', Times, serif;
+    outline-color: coral;
+    border-color: blueviolet;
+    padding: 1%;
+    border-radius: 50%;
+    background-color: aqua;
+    text-align: center;
+}
+#myBtn {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    align-content: center;
+    cursor: pointer;
+    background-color: red;
+}
+
+#myBtn:hover {
+    background-color: #555;
+  }
+
+div {
+padding: 2%;
+}
